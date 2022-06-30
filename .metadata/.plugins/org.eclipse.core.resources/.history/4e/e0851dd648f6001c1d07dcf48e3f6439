@@ -1,0 +1,5 @@
+package chaudhary.sundar.springboot.repository;
+
+public interface EmployeeRepository {
+
+}
