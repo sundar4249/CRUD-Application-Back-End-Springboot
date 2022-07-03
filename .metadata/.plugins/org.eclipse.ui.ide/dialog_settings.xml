@@ -36,4 +36,9 @@
 		<item value="org.sonatype.m2e.buildhelper.feature:0.15.0.201207090124"/>
 		<item value="org.sonatype.m2e.mavenarchiver.feature:0.17.5.202002191804"/>
 	</list>
+	<section name="org.eclipse.ui.internal.views.markers.FiltersConfigurationDialog">
+		<item key="SELECTED_FILTER_GROUP" value="All Errors on Workspace"/>
+		<list key="PREV_SELECTED_ELEMENTS">
+		</list>
+	</section>
 </section>
